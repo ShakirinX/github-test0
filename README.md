@@ -1,3 +1,6 @@
+# Dummy Repository
+Ignore the readme
+
 # Project Title
 
 Simple overview of use/purpose.
